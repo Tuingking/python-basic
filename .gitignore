@@ -2,3 +2,4 @@ test.txt
 .idea
 __pycache__/
 .vscode
+log-files
