@@ -1,5 +1,6 @@
 test.txt
 .idea
-__pycache__/
+__pycache__
 .vscode
 log-files
+*.log
